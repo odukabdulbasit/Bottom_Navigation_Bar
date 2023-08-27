@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bottom Navigation Bar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home Fragment</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="notifications_fragment">Notifications Fragment</string>
+</resources>
